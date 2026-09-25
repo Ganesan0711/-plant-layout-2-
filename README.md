@@ -265,6 +265,8 @@ FINISHED GOODS STORAGE
 ↓
 DISPATCH TRUCK
 
+[INSERT DELMIA SIMULATION IMAGE HERE]
+
 <img width="1600" height="901" alt="WhatsApp Image 2026-09-24 at 12 32 11 AM (1)" src="https://github.com/user-attachments/assets/7b212c9d-9948-40fd-9f34-c7b27ee36889" />
 
 
